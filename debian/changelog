@@ -1,3 +1,9 @@
+rocm-bandwidth-test (6.2.4-2) unstable; urgency=medium
+
+  * Adjust debian package path
+
+ -- CHEN Xuan <chenxuan@iscas.ac.cn>  Tue, 08 Jul 2025 14:58:58 +0800
+
 rocm-bandwidth-test (6.2.4-1) unstable; urgency=medium
 
   * Initial release.
