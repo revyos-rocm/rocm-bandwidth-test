@@ -1,3 +1,9 @@
+rocm-bandwidth-test (6.4.1-1) trixie; urgency=medium
+
+  * Release 6.4.1-1
+
+ --  <chenxuan@iscas.ac.cn>  Mon, 21 Jul 2025 10:56:34 +0800
+
 rocm-bandwidth-test (6.2.4-2) unstable; urgency=medium
 
   * Adjust debian package path

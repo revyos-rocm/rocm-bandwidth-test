@@ -13,8 +13,8 @@ Build-Depends:
  rocm-hsa-dev,
 Standards-Version: 4.7.0
 Homepage: https://github.com/ROCm/rocm_bandwidth_test
-Vcs-Browser: https://github.com/r-rocm/rocm-bandwidth-test
-Vcs-Git: https://github.com/r-rocm/rocm-bandwidth-test.git
+Vcs-Browser: https://github.com/revyos-rocm/rocm-bandwidth-test
+Vcs-Git: https://github.com/revyos-rocm/rocm-bandwidth-test.git
 
 Package: rocm-bandwidth-test
 Architecture: any
