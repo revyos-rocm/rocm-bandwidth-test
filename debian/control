@@ -10,7 +10,7 @@ Build-Depends:
  rocm-core,
  rocm-env,
  rocm-cmake,
- rocm-hsa-dev,
+ rocm-rocr-dev,
 Standards-Version: 4.7.0
 Homepage: https://github.com/ROCm/rocm_bandwidth_test
 Vcs-Browser: https://github.com/revyos-rocm/rocm-bandwidth-test
@@ -23,7 +23,7 @@ Depends:
  ${misc:Depends},
  rocm-core,
  rocm-env,
- rocm-hsa,
+ rocm-rocr,
 Description: Bandwidth test for ROCm
  ROCm Bandwidth Test is designed to capture the performance characteristics of
  buffer copying and kernel read and write operations. The benchmark help screen
